@@ -82,25 +82,119 @@ Project Mandela is a regulator-assigned initiative requiring [Organisation Name]
 
 ## 5. Stream Detail — Initiatives, Roadblocks & Next Steps
 
-*For working teams and programme leads. EGM reference as required.*
+*For working teams and programme leads. EGM reference as required. Add or remove initiative rows per stream as needed.*
 
-*Add or remove rows per stream as initiatives change.*
+---
 
-| Stream | Initiative | Status | Progress | Roadblocks | Next Steps | Due Date | Support From |
-|--------|-----------|:------:|----------|------------|------------|----------|--------------|
-| **1 — [Stream Name]** | [Initiative 1A] | 🟢 | [e.g. 80% complete — drafting final artefact] | [None / describe blocker] | [e.g. Submit draft to [Name] for review] | [DD Mon YYYY] | [None / Stream X] |
-| **1 — [Stream Name]** | [Initiative 1B] | 🟢 | [Progress summary] | [None] | [Next step] | [DD Mon YYYY] | [None] |
-| **2 — [Stream Name]** | [Initiative 2A] | 🟡 | [Progress summary] | [e.g. Waiting on legal sign-off] | [Follow up with Legal — [Name]] | [DD Mon YYYY] | [Stream 4] |
-| **3 — [Stream Name]** | [Initiative 3A] | 🟡 | [Progress summary] | [e.g. Resource gap — 1 analyst short] | [Raise resourcing request with [Name]] | [DD Mon YYYY] | [Stream 4] |
-| **3 — [Stream Name]** | [Initiative 3B] | 🟢 | [Progress summary] | [None] | [Next step] | [DD Mon YYYY] | [None] |
-| **4 — [Stream Name]** | [Initiative 4A] | 🟢 | [Progress summary] | [None] | [Next step] | [DD Mon YYYY] | [None] |
-| **5 — [Stream Name]** | [Initiative 5A] | 🟡 | [Progress summary] | [Blocker] | [Next step] | [DD Mon YYYY] | [Stream 5, Stream 7] |
-| **6 — [Stream Name]** | [Initiative 6A] | 🔴 | [Progress summary] | [e.g. Dependency on Stream 2 output not yet received] | [Escalate delay — [Name] to contact Stream 2 owner] | [DD Mon YYYY] | [Blocked on Stream 2] |
-| **6 — [Stream Name]** | [Initiative 6B] | 🟡 | [Progress summary] | [Blocker] | [Next step] | [DD Mon YYYY] | [None] |
-| **7 — [Stream Name]** | [Initiative 7A] | 🟢 | [Progress summary] | [None] | [Next step] | [DD Mon YYYY] | [None] |
-| **8 — [Stream Name]** | [Initiative 8A] | 🟢 | [Progress summary] | [None] | [Next step] | [DD Mon YYYY] | [None] |
-| **9 — [Stream Name]** | [Initiative 9A] | 🟡 | [Progress summary] | [Blocker] | [Next step] | [DD Mon YYYY] | [Stream 5, Stream 7] |
-| **9 — [Stream Name]** | [Initiative 9B] | 🟢 | [Progress summary] | [None] | [Next step] | [DD Mon YYYY] | [None] |
+### Stream 1 — [Stream Name] &nbsp; 🟢 &nbsp; Owner: [Name]
+
+| Initiative | Status | Progress | Due Date |
+|------------|:------:|----------|----------|
+| [Initiative 1A] | 🟢 | [e.g. 80% complete — drafting final artefact] | [DD Mon YYYY] |
+| [Initiative 1B] | 🟢 | [Progress summary] | [DD Mon YYYY] |
+
+**Roadblocks:** [None — or describe blocker]
+**Next Steps:** [e.g. Submit draft to [Name] for review]
+**Support From:** [None / Stream X]
+
+---
+
+### Stream 2 — [Stream Name] &nbsp; 🟢 &nbsp; Owner: [Name]
+
+| Initiative | Status | Progress | Due Date |
+|------------|:------:|----------|----------|
+| [Initiative 2A] | 🟡 | [Progress summary] | [DD Mon YYYY] |
+
+**Roadblocks:** [e.g. Waiting on legal sign-off]
+**Next Steps:** [Follow up with Legal — [Name]]
+**Support From:** [Stream 4]
+
+---
+
+### Stream 3 — [Stream Name] &nbsp; 🟡 &nbsp; Owner: [Name]
+
+| Initiative | Status | Progress | Due Date |
+|------------|:------:|----------|----------|
+| [Initiative 3A] | 🟡 | [Progress summary] | [DD Mon YYYY] |
+| [Initiative 3B] | 🟢 | [Progress summary] | [DD Mon YYYY] |
+
+**Roadblocks:** [e.g. Resource gap — 1 analyst short]
+**Next Steps:** [Raise resourcing request with [Name]]
+**Support From:** [Stream 4]
+
+---
+
+### Stream 4 — [Stream Name] &nbsp; 🟢 &nbsp; Owner: [Name]
+
+| Initiative | Status | Progress | Due Date |
+|------------|:------:|----------|----------|
+| [Initiative 4A] | 🟢 | [Progress summary] | [DD Mon YYYY] |
+
+**Roadblocks:** [None]
+**Next Steps:** [Next step]
+**Support From:** [None]
+
+---
+
+### Stream 5 — [Stream Name] &nbsp; 🟡 &nbsp; Owner: [Name]
+
+| Initiative | Status | Progress | Due Date |
+|------------|:------:|----------|----------|
+| [Initiative 5A] | 🟡 | [Progress summary] | [DD Mon YYYY] |
+
+**Roadblocks:** [Blocker]
+**Next Steps:** [Next step]
+**Support From:** [Stream 7]
+
+---
+
+### Stream 6 — [Stream Name] &nbsp; 🔴 &nbsp; Owner: [Name]
+
+| Initiative | Status | Progress | Due Date |
+|------------|:------:|----------|----------|
+| [Initiative 6A] | 🔴 | [Progress summary] | [DD Mon YYYY] |
+| [Initiative 6B] | 🟡 | [Progress summary] | [DD Mon YYYY] |
+
+**Roadblocks:** [e.g. Dependency on Stream 2 output not yet received]
+**Next Steps:** [Escalate delay — [Name] to contact Stream 2 owner]
+**Support From:** [Blocked on Stream 2]
+
+---
+
+### Stream 7 — [Stream Name] &nbsp; 🟢 &nbsp; Owner: [Name]
+
+| Initiative | Status | Progress | Due Date |
+|------------|:------:|----------|----------|
+| [Initiative 7A] | 🟢 | [Progress summary] | [DD Mon YYYY] |
+
+**Roadblocks:** [None]
+**Next Steps:** [Next step]
+**Support From:** [None]
+
+---
+
+### Stream 8 — [Stream Name] &nbsp; 🟢 &nbsp; Owner: [Name]
+
+| Initiative | Status | Progress | Due Date |
+|------------|:------:|----------|----------|
+| [Initiative 8A] | 🟢 | [Progress summary] | [DD Mon YYYY] |
+
+**Roadblocks:** [None]
+**Next Steps:** [Next step]
+**Support From:** [None]
+
+---
+
+### Stream 9 — [Stream Name] &nbsp; 🟡 &nbsp; Owner: [Name]
+
+| Initiative | Status | Progress | Due Date |
+|------------|:------:|----------|----------|
+| [Initiative 9A] | 🟡 | [Progress summary] | [DD Mon YYYY] |
+| [Initiative 9B] | 🟢 | [Progress summary] | [DD Mon YYYY] |
+
+**Roadblocks:** [Blocker]
+**Next Steps:** [Next step]
+**Support From:** [Stream 5, Stream 7]
 
 ---
 
