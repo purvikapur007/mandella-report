@@ -36,7 +36,23 @@ Project Mandela is a regulator-assigned initiative requiring [Organisation Name]
 
 ---
 
-## 2. Stream Overview
+## 2. Key Dates & Upcoming Milestones
+
+*Key dates across all streams for the next 90 days.*
+
+| Due Date | Stream | Milestone / Deliverable | Owner | Status |
+|----------|--------|------------------------|-------|:------:|
+| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🟢 |
+| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🟡 |
+| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🟢 |
+| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🔴 |
+| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🟢 |
+| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🟢 |
+| [**REGULATORY DEADLINE**] | All Streams | [Regulatory obligation / submission] | [Programme Lead] | 🟢 |
+
+---
+
+## 3. Stream Overview
 
 *One row per stream. Use this table for a rapid health check across the programme.*
 
@@ -54,30 +70,17 @@ Project Mandela is a regulator-assigned initiative requiring [Organisation Name]
 
 ---
 
-## 3. Key Risks & Decisions Required
+## 4. Escalated Risks & Issues
 
-### Risks Requiring EGM Awareness
-
-| # | Risk | Stream(s) Affected | Likelihood | Impact | Mitigation / Owner |
-|---|------|--------------------|:----------:|:------:|--------------------|
+| # | Risk / Issue | Stream(s) Affected | Likelihood | Impact | Mitigation / Owner |
+|---|-------------|--------------------|:----------:|:------:|--------------------|
 | 1 | [Risk description] | [Stream X] | High / Med / Low | High / Med / Low | [Mitigation action — Owner] |
 | 2 | [Risk description] | [Stream X, Y] | High / Med / Low | High / Med / Low | [Mitigation action — Owner] |
 | 3 | [Risk description] | [Stream X] | High / Med / Low | High / Med / Low | [Mitigation action — Owner] |
 
-### Decisions Required from EGM
-
-| # | Decision Required | Stream | Recommended By | Decision Needed By |
-|---|-------------------|--------|---------------|--------------------|
-| 1 | [Decision description — e.g. "Approve additional FTE resourcing for Stream 6"] | [Stream 6] | [Name] | [DD Mon YYYY] |
-| 2 | [Decision description] | [Stream X] | [Name] | [DD Mon YYYY] |
-
-> *If no decisions are required this period, note: "No EGM decisions required this period."*
-
 ---
 
----
-
-## 4. Stream Detail — Initiatives, Roadblocks & Next Steps
+## 5. Stream Detail — Initiatives, Roadblocks & Next Steps
 
 *For working teams and programme leads. EGM reference as required.*
 
@@ -98,22 +101,6 @@ Project Mandela is a regulator-assigned initiative requiring [Organisation Name]
 | **8 — [Stream Name]** | [Initiative 8A] | 🟢 | [Progress summary] | [None] | [Next step] | [DD Mon YYYY] | [None] |
 | **9 — [Stream Name]** | [Initiative 9A] | 🟡 | [Progress summary] | [Blocker] | [Next step] | [DD Mon YYYY] | [Stream 5, Stream 7] |
 | **9 — [Stream Name]** | [Initiative 9B] | 🟢 | [Progress summary] | [None] | [Next step] | [DD Mon YYYY] | [None] |
-
----
-
-## 5. Upcoming Milestones
-
-*Key dates across all streams for the next 90 days.*
-
-| Due Date | Stream | Milestone / Deliverable | Owner | Status |
-|----------|--------|------------------------|-------|:------:|
-| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🟢 |
-| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🟡 |
-| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🟢 |
-| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🔴 |
-| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🟢 |
-| [DD Mon YYYY] | [Stream X] | [Milestone description] | [Name] | 🟢 |
-| [**REGULATORY DEADLINE**] | All Streams | [Regulatory obligation / submission] | [Programme Lead] | 🟢 |
 
 ---
 
